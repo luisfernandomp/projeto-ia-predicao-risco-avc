@@ -1,0 +1,15 @@
+variavel,descricao,ignorado_n,branco_n,ignorado_%,branco_%
+V0026,"Situação censitária (1 urbano, 2 rural)",0,0,0.0,0.0
+C006,Sexo,0,0,0.0,0.0
+C009,Cor ou raça,6,0,0.01091167003109826,0.0
+Q00201,Diagnóstico médico de hipertensão,0,538,0.0,0.978413079455144
+Q03001,Diagnóstico médico de diabetes,0,2605,0.0,4.737483405168494
+P00404,Altura final (cm),0,68,0.0,0.12366559368578027
+P050,Fuma atualmente,0,0,0.0,0.0
+P052,Fumou no passado,0,7461,0.0,13.568661683670685
+P027,Frequência de consumo de álcool,0,0,0.0,0.0
+P034,Praticou exercício físico nos últimos 3 meses,0,0,0.0,0.0
+VDD004A,Nível de instrução,0,0,0.0,0.0
+VDF004,Faixa de rendimento domiciliar per capita,0,14,0.0,0.02546056340589594
+I00102,Possui plano de saúde,0,0,0.0,0.0
+Q068,Diagnóstico médico de AVC (variável-alvo),0,0,0.0,0.0
